@@ -8,6 +8,7 @@
  * Obramowania dla każdego 3x3.
  * Zostaną dodane również Sudoku 3x3.
  * Zaimplementowanie Solvera (skrypt rozwiązujący Sudoku).
+ * Dodanie panelu (klawiatury ekranowej).
  
  
  Praca została wykonana przez:
