@@ -11,5 +11,4 @@
  
  
  Praca została wykonana przez:
- Michał Gudra
- Paulina Kałowska
+ Michał Gudra,  Paulina Kałowska
